@@ -3,6 +3,10 @@
 ## Overview
 This project explores various quality metrics for binary classification models. It evaluates the performance of different classifiers using precision, recall, F1-score, log loss, and ROC-AUC. The dataset used is `bioresponse.csv`, with `Activity` as the target variable.
 
+## Implementation
+
+Google Colab: [Link](https://colab.research.google.com/drive/1x7aZ6bdE11atUGetUJRgKKMgaSpiIRhz?usp=sharing)
+
 ## Dataset
 The dataset contains biological response data and is processed as follows:
 ```python
